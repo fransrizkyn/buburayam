@@ -1,8 +1,8 @@
 {
     "pools":
         [{
-            "name": "NA-LUCKPOOL",
-            "url": "stratum+tcp://na.luckpool.net:3956",
+            "name": "FR-VIPOR",
+            "url": "stratum+tcp://sg.vipor.net:5040",
             "timeout": 180,
             "disabled": 1
         }],
@@ -11,7 +11,7 @@
     "pass": "",
     "algo": "verus",
     "threads": 4,
-    "cpu-priority": 1,
+    "cpu-priority": 4,
     "cpu-affinity": -1,
     "retry-pause": 10,
     "api-allow": "192.168.0.0/16",
