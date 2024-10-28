@@ -10,7 +10,7 @@
     "user": "RSwELPb5pn8YDm4mUU7UZkBRx9KanhVm9S.vmoscn",
     "pass": "",
     "algo": "verus",
-    "threads": 4,
+    "threads": 8,
     "cpu-priority": 1,
     "cpu-affinity": -1,
     "retry-pause": 10,
