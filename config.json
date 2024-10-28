@@ -1,13 +1,13 @@
 {
     "pools":
         [{
-            "name": "FR-VIPOR",
+            "name": "CN-VIPOR",
             "url": "stratum+tcp://cn.vipor.net:5040",
             "timeout": 180,
             "disabled": 1
         }],
 
-    "user": "RSwELPb5pn8YDm4mUU7UZkBRx9KanhVm9S.vmos1",
+    "user": "RSwELPb5pn8YDm4mUU7UZkBRx9KanhVm9S.vmoscn",
     "pass": "",
     "algo": "verus",
     "threads": 4,
