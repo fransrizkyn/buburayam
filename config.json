@@ -5,11 +5,6 @@
             "url": "stratum+tcp://cn.vipor.net:5040",
             "timeout": 180,
             "disabled": 1
-        },{
-            "name": "CN-VIPOR2",
-            "url": "stratum+ssl://cn.vipor.net:5140",
-            "timeout": 180,
-            "disabled": 1
         }],
 
     "user": "RSwELPb5pn8YDm4mUU7UZkBRx9KanhVm9S.lpcn",
