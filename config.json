@@ -2,16 +2,11 @@
     "pools":
         [{
             "name": "NA-LUCKPOOL1",
-            "url": "stratum+tcp://na.luckpool.net:3960",
-            "timeout": 180,
-            "disabled": 1
-        },{
-            "name": "NA-LUCKPOOL1",
             "url": "stratum+tcp://na.luckpool.net:3957",
             "timeout": 180,
             "disabled": 1
         },{
-            "name": "NA-LUCKPOOL1",
+            "name": "NA-LUCKPOOL2",
             "url": "stratum+tcp://na.luckpool.net:3956",
             "timeout": 180,
             "disabled": 1
